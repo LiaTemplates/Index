@@ -74,6 +74,8 @@ __[A-Frame](https://aframe.io):__
  A web framework for building virtual reality experiences Make WebVR with HTML
  and Entity-Component Works on Vive, Rift, Daydream, GearVR, desktop
 
+![demo](https://raw.githubusercontent.com/liaTemplates/aframe/master/demo.gif)
+
 * Github:
   https://github.com/liaTemplates/aframe
 * Raw-File:
