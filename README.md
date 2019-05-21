@@ -104,6 +104,8 @@ __[rextester](http://rextester.com):__
 
 Support for 45 different programming languages
 
+![demo](https://raw.githubusercontent.com/liaTemplates/Rextester/master/demo.gif)
+
 * Github:
   https://github.com/liaTemplates/rextester
 * Raw-File:
