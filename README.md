@@ -2,9 +2,15 @@
 
 author:   Andre Dietrich
 email:    andre.dietrich@ovgu.de
-version:  1.0.0
+version:  1.0.1
 language: en
 narrator: US English Female
+
+logo:     https://liascript.github.io/img/bg-showcase-2.jpg
+
+comment:  This is an overview on LiaScript-Templates, that can be imported into
+          your course for various purposes. Simply by using the keyword
+          `import: http://...`.
 
 -->
 
@@ -12,9 +18,8 @@ narrator: US English Female
 
 A list of templates for extending LiaScript course
 
-## Computer Algebra
 
----
+## Computer Algebra
 
 __[Algebrite](http://algebrite.org/):__
 
@@ -35,13 +40,13 @@ multi-integrals, computing integrals and much more!
 
 ## Diagrams & Graphs
 
----
-
 __[plantUML](plantUML):__
 
 Library for creating: Sequence diagrams, Usecase diagrams, Class diagrams,
 Activity diagrams, Component diagrams, State diagrams, Object diagrams,
 Deployment diagrams,  Timing diagrams ...
+
+![demo](https://raw.githubusercontent.com/liaTemplates/plantUML/master/demo.gif "demo.gif ... to appear")
 
 * Github:
   https://github.com/liaTemplates/plantUML
@@ -66,8 +71,6 @@ javascript.
 
 
 ## Imaging
-
----
 
 __[A-Frame](https://aframe.io):__
 
@@ -100,8 +103,6 @@ Built using HTML5, CSS3, JavaScript, and WebGL, it is plug-in free.
 
 ## Programming
 
----
-
 __[rextester](http://rextester.com):__
 
 Support for 45 different programming languages
@@ -118,8 +119,6 @@ Support for 45 different programming languages
 
 ### AI
 
----
-
 __[TensorFlow.JS](https://js.tensorflow.org):__
 
 A JavaScript library for training and deploying ML models in the browser and on
@@ -133,8 +132,6 @@ Node.js
   https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/tensorflowjs/master/README.md
 
 ### C++
-
----
 
 __[JSCPP - C++](https://github.com/felixhao28/JSCPP):__
 
@@ -150,8 +147,6 @@ C++ interpreter implement in JavaScript.
 
 
 ### Prolog
-
----
 
 __[Tau-Prolog](http://tau-prolog.org):__
 
@@ -176,8 +171,6 @@ Prolog-Interpreter implemented in 160 lines of JavaScript-code.
 
 
 ### Python
-
----
 
 __[Skulpt](http://www.skulpt.org):__
 
@@ -208,8 +201,6 @@ means Python has full access to the Web APIs.
 
 ### SQL
 
----
-
 __[AlaSQL](http://alasql.org):__
 
 AlaSQL - is a lightweight client-side in-memory SQL database designed to work in
@@ -227,8 +218,6 @@ or Excel.
 
 ### Web Development
 
----
-
 A general template that can be used to create online curses on web development
 including HTML, CSS, and JavaScript.
 
@@ -241,8 +230,6 @@ including HTML, CSS, and JavaScript.
 
 
 ## Simulations
-
----
 
 __[logicemu](https://lodev.org/logicemu/):__
 
@@ -258,8 +245,6 @@ directly parses and executes them.
 
 
 ## Visualization
-
----
 
 __[ProcessingJS](http://processingjs.org/):__
 
