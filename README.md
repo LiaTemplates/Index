@@ -2,7 +2,7 @@
 
 author:   Andre Dietrich
 email:    andre.dietrich@ovgu.de
-version:  1.0.1
+version:  1.0.2
 language: en
 narrator: US English Female
 
@@ -102,6 +102,18 @@ Built using HTML5, CSS3, JavaScript, and WebGL, it is plug-in free.
 
 
 ## Programming
+
+
+__[netswarm-simulator](https://github.com/wvengen/netswarm-simulator):__
+
+An Arduino template, to make snippets of Arduino-code executable.
+
+* Github:
+  https://github.com/liaTemplates/netswarm-simulator
+* Raw-File:
+  https://raw.githubusercontent.com/liaTemplates/netswarm-simulator/master/README.md
+* LiaScript:
+  https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/netswarm-simulator/master/README.md
 
 __[rextester](http://rextester.com):__
 
