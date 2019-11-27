@@ -2,7 +2,7 @@
 
 author:   Andre Dietrich
 email:    andre.dietrich@ovgu.de
-version:  1.0.2
+version:  1.0.3
 language: en
 narrator: US English Female
 
@@ -158,13 +158,24 @@ C++ interpreter implement in JavaScript.
   https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/jscpp/master/README.md
 
 
+### Lua
+
+__[Lua](https://daurnimator.github.io/):__
+
+A fully functional Lua-Interpreter and VM for JavaScript.
+
+* Github: https://github.com/liaTemplates/Lua
+* Raw-File: https://raw.githubusercontent.com/liaTemplates/Lua/master/README.md
+* LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/Lua/master/README.md
+
+
 ### Prolog
 
 __[Tau-Prolog](http://tau-prolog.org):__
 
 A fully functional Prolog-Interpreter for JavaScript.
 
-* Github: https://github.com/liaScript/tau-prolog
+* Github: https://github.com/liaTemplates/tau-prolog
 * Raw-File: https://raw.githubusercontent.com/liaTemplates/tau-rolog/master/README.md
 * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/tau-prolog/master/README.md
 
