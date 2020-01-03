@@ -2,7 +2,7 @@
 
 author:   Andre Dietrich
 email:    andre.dietrich@ovgu.de
-version:  1.0.3
+version:  1.0.4
 language: en
 narrator: US English Female
 
@@ -39,6 +39,22 @@ multi-integrals, computing integrals and much more!
   https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/algebrite/master/README.md
 
 ## Diagrams & Graphs
+
+__[Vega](https://vega.github.io/vega-lite/examples/):__
+
+Vega-Lite is a high-level grammar of interactive graphics. It provides a concise
+JSON syntax for rapidly generating visualizations to support analysis. Vega-Lite
+specifications can be compiled to Vega specifications.
+
+* Github:
+  https://github.com/liaTemplates/vega
+* Raw-File:
+  https://raw.githubusercontent.com/liaTemplates/vega/master/README.md
+* LiaScript:
+  https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/vega/master/README.md
+
+---
+
 
 __[plantUML](plantUML):__
 
