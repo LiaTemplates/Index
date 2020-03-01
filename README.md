@@ -1,9 +1,13 @@
 <!--
 
 author:   Andre Dietrich
-email:    andre.dietrich@ovgu.de
-version:  1.0.4
+
+email:    LiaScript@web.de
+
+version:  1.0.5
+
 language: en
+
 narrator: US English Female
 
 logo:     https://liascript.github.io/img/bg-showcase-2.jpg
@@ -253,6 +257,19 @@ or Excel.
   https://raw.githubusercontent.com/liaTemplates/alasql/master/README.md
 * LiaScript:
   https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/alasql/master/README.md
+
+
+### Turtle
+
+A port of [tiny-turtle.js](https://github.com/toolness/tiny-turtle) to
+LiaScript, which can be used make JavaScript courses more interestingly.
+
+* Github:
+  https://github.com/liaTemplates/tiny-turtle
+* Raw-File:
+  https://raw.githubusercontent.com/liaTemplates/tiny-turtle/master/README.md
+* LiaScript:
+  https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/tiny-turtle/master/README.md
 
 
 ### Web Development
