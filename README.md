@@ -4,7 +4,7 @@ author:   Andre Dietrich
 
 email:    LiaScript@web.de
 
-version:  1.0.5
+version:  1.0.6
 
 language: en
 
@@ -241,6 +241,21 @@ means Python has full access to the Web APIs.
   https://raw.githubusercontent.com/liaTemplates/Pyodide/master/README.md
 * LiaScript:
   https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/Pyodide/master/README.md
+
+
+### Scheme
+
+__[BiwaScheme](https://www.biwascheme.org):__
+
+BiwaScheme is a Scheme interpreter written in JavaScript.
+
+* Github:
+  https://github.com/liaTemplates/BiwaScheme
+* Raw-File:
+  https://raw.githubusercontent.com/liaTemplates/BiwaScheme/master/README.md
+* LiaScript:
+  https://liascript.github.io/course/?https://github.com/liaTemplates/BiwaScheme/master/README.md
+
 
 ### SQL
 
