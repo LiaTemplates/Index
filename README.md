@@ -4,7 +4,7 @@ author:   Andre Dietrich
 
 email:    LiaScript@web.de
 
-version:  1.0.6
+version:  2.0.0
 
 language: en
 
@@ -298,6 +298,21 @@ including HTML, CSS, and JavaScript.
   https://raw.githubusercontent.com/liaTemplates/WebDev/master/README.md
 * LiaScript:
   https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/WebDev/master/README.md
+
+
+## Quizzes
+
+Use this template if you want to randomize the visability of quizzes or other
+elements. Thus, you can define entire quiz-banks, but only show some of them to
+your user at runtime.
+
+* Github:
+  https://github.com/liaTemplates/Random
+* Raw-File:
+  https://raw.githubusercontent.com/liaTemplates/Random/master/README.md
+* LiaScript:
+  https://liascript.github.io/course/?https://raw.githubusercontent.com/liaTemplates/Random/master/README.md
+
 
 
 ## Simulations
